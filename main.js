@@ -259,7 +259,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 const environment = {
     production: false,
-    api_url: 'http://localhost:61346/api',
+    api_url: 'https://0cde346a8ed6.ngrok.io/api',
 };
 /*
  * For easier debugging in development mode, you can import the following file
